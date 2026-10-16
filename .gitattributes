@@ -1,0 +1,5 @@
+* text=auto
+*.elf binary
+*.ELF binary
+*.cer binary
+*.p7s binary

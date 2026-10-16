@@ -1,0 +1,17 @@
+TaktVibes Community Kernel
+Version: 0.1.0
+Build: 0001
+Build Date: 2026-10-16
+Vendor: TaktVibes
+Channel: Community / Learning
+Target: x86_64 ELF64
+Load Base: 0x01080000
+Entry Point: 0x01080000
+Release ELF SHA-256: 07ff9d7922d24ef0988133d841fd529798a8ab3a9fe5ef3e2f4470e787b7ddd0
+Hardware status: PASS for this exact release ELF, reported 2026-10-16
+Official status: NO - requires kernel-specific CER + detached signature verification
+
+Authors: Meister 1 / TaktVibes; Meister 2 / ChatGPT by OpenAI
+Credits metadata finalized: 2026-10-16 12:55 CEST (Europe/Berlin)
+Special thanks: Google and Google/AI sources used for external technical perspectives and cross-checking
+Note: No Google endorsement, certification, or approval is implied.

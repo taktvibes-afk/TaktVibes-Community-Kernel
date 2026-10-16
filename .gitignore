@@ -1,0 +1,8 @@
+*.pfx
+*.p12
+*.pvk
+*.key
+*.pem
+*.password
+*.secret
+build/*.o
